@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Heartbeat Echoes Loud
+
+This log tracks the cryptographic history and versioning for the song **Your Heartbeat Echoes Loud** (your-heartbeat-echoes-loud).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T21:56:22.809817 | `v1` | `f394ec3eaed7e1fba09d5b5290b4dc3f2028e7799f1169bb3b917441d702cbaa` | `d17a0386920c42024f77320c9762c26d221f73a6d5cb4a4a03f8903b8a6bad91` | `2026-06-05_your-heartbeat-echoes-loud-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
