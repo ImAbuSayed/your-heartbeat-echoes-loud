@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-heartbeat-echoes-loud/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Your Heartbeat Echoes Loud](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-heartbeat-echoes-loud/) |
+| **Get License** | [Music Rights & Licensing for Your Heartbeat Echoes Loud](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-heartbeat-echoes-loud/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your heartbeat echoes loud inside this quiet room
+> I feel the fire pulling closer in the gloom
+> One touch is all it takes to lose my sense of time
+> I want to cross the border, make you fully mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
